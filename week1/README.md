@@ -17,3 +17,4 @@
    ```
 
 - The app will start in development mode and provide a qr code that can be scanned by phone on same network to open app
+![App Image](https://i.vgy.me/Z5YZw1.png "Changed Colors test")
